@@ -127,7 +127,6 @@ public class CartController implements Initializable {
         cart_spinner.setValueFactory(new SpinnerValueFactory.IntegerSpinnerValueFactory(1, 100, 1));
     }
     //Show details sản phẩm ra
-
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         setQuantity();

@@ -19,7 +19,7 @@
 
 <AnchorPane prefHeight="687.0" prefWidth="1329.0" stylesheets="@../resource/Admin.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="thuan.dev.controller.AdminController">
    <children>
-      <AnchorPane fx:id="home" layoutX="212.0" layoutY="1.0" prefHeight="734.0" prefWidth="1118.0" visible="false" AnchorPane.bottomAnchor="-1.0" AnchorPane.leftAnchor="212.0" AnchorPane.rightAnchor="0.7999999999999545" AnchorPane.topAnchor="1.0">
+      <AnchorPane fx:id="home" layoutX="212.0" layoutY="1.0" prefHeight="734.0" prefWidth="1118.0" AnchorPane.bottomAnchor="-1.0" AnchorPane.leftAnchor="212.0" AnchorPane.rightAnchor="0.7999999999999545" AnchorPane.topAnchor="1.0">
          <children>
             <AnchorPane prefHeight="242.0" prefWidth="1115.0" stylesheets="@../resource/Admin.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="0.0">
                <styleClass>
@@ -360,7 +360,7 @@
          </styleClass>
       </AnchorPane>
       <AnchorPane layoutY="-4.0" prefHeight="122.0" prefWidth="211.0" styleClass="header" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="-4.0" />
-      <AnchorPane layoutX="212.0" layoutY="-1.0" prefHeight="720.0" prefWidth="1118.0" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="212.0" AnchorPane.rightAnchor="0.7999999999999545" AnchorPane.topAnchor="-1.0">
+      <AnchorPane layoutX="212.0" layoutY="-1.0" prefHeight="720.0" prefWidth="1118.0" visible="false" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="212.0" AnchorPane.rightAnchor="0.7999999999999545" AnchorPane.topAnchor="-1.0">
          <children>
             <AnchorPane layoutX="14.0" layoutY="14.0" prefHeight="700.0" prefWidth="530.0" styleClass="table-view">
                <children>
